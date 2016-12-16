@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin Szechy</title>
+    <link>https://szechy.me/index.xml</link>
+    <description>Recent content on Colin Szechy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <atom:link href="https://szechy.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://szechy.me/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://szechy.me/projects/</guid>
+      <description>&lt;section id=&#34;projects&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;h3&gt;Projects&lt;/h3&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://mhacks.github.io/index.html&#34;&gt;MHacks Refactor Hacker Boards&lt;/a&gt;&lt;/strong&gt; (Feb 2016) - An affordable, easy entry into hardware hacking with an ESP8266 (Arduino + Wi-Fi), including &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-refactor&#34;&gt;open-source hardware&lt;/a&gt; and a &lt;a target=&#34;_blank&#34; href=&#34;https://docs.google.com/presentation/d/18SB5dQ9jybFw33IrWsfLmodS6KLpkOtznJnRdo14fbk/edit&#34;&gt;workshop&lt;/a&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/szechy/doorjamb-node&#34;&gt;Gateway&lt;/a&gt;&lt;/strong&gt; (Dec 2015) - A low-power doorway tracking idea for indoor localization, implemented as a a low-power &lt;a target=&#34;_blank&#34; href=&#34;https://www.cs.virginia.edu/~whitehouse/research/buildingEnergy/hnat12doorjamb.pdf&#34;&gt;Doorjamb&lt;/a&gt; revision. Built using NXP nRF51822 SoCs communicating over Bluetooth LE to an Intel Edison with a Node.js server and MongoDB database.
+      &lt;/h5&gt;
+        &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-six&#34;&gt;MHacks 6 Hacker Boards&lt;/a&gt;&lt;/strong&gt; (Sept 2015) - An affordable, easy entry into hardware hacking with an Arduino Leonardo clone, including a &lt;a href=&#34;href=&#34;https://docs.google.com/presentation/d/15O3TXqOf3Xi9S6ba83HRF5j0ccdkGcIPRQTYAptkbrs/edit#slide=id.p&#34;&#34;&gt;workshop&lt;/a&gt; given at MHacks 6.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-wheelchair-alt&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a&gt;MyBot&lt;/a&gt;&lt;/strong&gt; (Feb 2015) - A wheelchair built on a FRC robot chassis, controllable via a Thalmic Labs Myo armband through an iPhone app. Won its category at the 2015 &lt;a target=&#34;_blank&#34; href=&#34;https://mpowered.umich.edu/makeathon&#34;&gt;MPowered Makeathon&lt;/a&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-car&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://mhacks-iv.devpost.com/submissions/26116-backseat-driver&#34;&gt;Backseat Driver&lt;/a&gt;&lt;/strong&gt; (Sept 2014) - An Android app that would teach new drivers how to drive a manual transmission vehicle, with data from an OBDII-Bluetooth dongle. Built at MHacks IV.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-car&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;Formula SAE instrument cluster&lt;/strong&gt; (April 2014) - An Arduino-based dashboard and automatic transmission controller for &lt;a target=&#34;_blank&#34; href=&#34;https://mracing.engin.umich.edu&#34;&gt;MRacing&lt;/a&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;FRC Abacus&lt;/strong&gt; (July 2013) - An Android app serving as a FRC alliance selection tool for the 2013 IRI.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.chiefdelphi.com/forums/showthread.php?t=116908&#34;&gt;FRC 2337 Crossfire robot&lt;/strong&gt;&lt;/a&gt; (April 2013) - Lead programmer and driver for the 2013 &lt;a target=&#34;_blank&#34; href=&#34;http://team2337.com&#34;&gt;FRC 2337&lt;/a&gt; robot, which played a version of ultimate frisbee and finished as state runners-up and qualified for the world championship.
+      &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>https://szechy.me/updates/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://szechy.me/updates/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+&lt;h3&gt;Updates&lt;/h3&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-body&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            April 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Won third place in the &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://michiganhackers.org&#34;&gt;Michigan Hackers&lt;/a&gt;&lt;/strong&gt; and Facebook&#39;s Winter 2016 Capture the Flag event with &lt;a target=&#34;_blank&#34; class=&#34;normal-nobold&#34; href=&#34;http://thomasfinch.me&#34;&gt;Tom Finch&lt;/a&gt;, &lt;a target=&#34;_blank&#34; class=&#34;normal-nobold&#34; href=&#34;http://pavi.rocks&#34;&gt;Pavi Vetriselvan&lt;/a&gt;, and &lt;a target=&#34;_blank&#34; class=&#34;normal-nobold&#34; href=&#34;https://www.linkedin.com/in/varsha-tirukonda-2ab7a2102&#34;&gt;Varsha Tirukonda&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            March 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+          Won the &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.eecs.umich.edu/eecs/students/awards/undergraduate/15-16awards.html&#34;&gt;Commercial&lt;wbr&gt;ization/&lt;wbr&gt;Entrepreneur&lt;wbr&gt;ship Award&lt;/a&gt;&lt;/strong&gt; from the University of Michigan EECS Department for my work with companies at &lt;a target=&#34;_blank&#34; href=&#34;https://mhacks.org&#34;&gt;MHacks&lt;/a&gt; and with the &lt;a target=&#34;_blank&#34; href=&#34;http://eecs.umich.edu/hub&#34;&gt;Embedded System Hub&lt;/a&gt;.
+       &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            February 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           The &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-refactor&#34;&gt;&lt;strong&gt;MHacks: Refactor Hacker Boards&lt;/strong&gt; libraries, schematics, and workshop files&lt;/a&gt; were released, including a &lt;a target=&#34;_blank&#34; href=&#34;http://mhacks.github.io&#34;&gt;documentation site&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            September 2015
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           The &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-six&#34;&gt;&lt;strong&gt;MHacks 6 Hacker Boards&lt;/strong&gt; libraries, schematics, and workshop files&lt;/a&gt; were released.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            August 2015
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Finished a summer internship in &lt;a target=&#34;_blank&#34; href=&#34;http://www.ni.com/rf/&#34;&gt;&lt;strong&gt;National Instruments&#39;&lt;/strong&gt; RF Software&lt;/a&gt; group.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            February 2015
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Won the Health and Wellness Category at MPowered Makeathon with MyBot, working with &lt;a target=&#34;_blank&#34; href=&#34;https://twitter.com/ograff&#34;&gt;Oliver Graff&lt;/a&gt; and &lt;a target=&#34;_blank&#34; href=&#34;https://www.facebook.com/brandon.horsch&#34;&gt;Brandon Horsch&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            September 2014
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Won the Chrysler Connected Car Prize, Best Societal Hack, and FarmLogs Best Use of Mobile Sensor Data at MHacks IV with &lt;a target=&#34;_blank&#34; href=&#34;https://mhacks-iv.devpost.com/submissions/26116-backseat-driver&#34;&gt;&lt;strong&gt;Backseat Driver&lt;/strong&gt;&lt;/a&gt;, working with &lt;a target=&#34;_blank&#34; href=&#34;http://katelyndunaski.com&#34;&gt;Katelyn Dunaski&lt;/a&gt;, &lt;a target=&#34;_blank&#34; href=&#34;https://www.twitter.com/DGRiyu&#34;&gt;Riyu Banerjee&lt;/a&gt;, and &lt;a target=&#34;_blank&#34; href=&#34;http://michael-ray.net/index.html&#34;&gt;Michael Ray&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            August 2014
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Started working at the &lt;a target=&#34;_blank&#34; href=&#34;https://www.eecs.umich.edu/hub&#34;&gt;&lt;strong&gt;Michigan Embedded System Hub/Student Projects Lab&lt;/strong&gt;&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            August 2014
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+            Finished a summer internship in &lt;a target=&#34;_blank&#34; href=&#34;http://fcagroup.com&#34;&gt;&lt;strong&gt;Fiat Chrysler&#39;s&lt;/strong&gt;&lt;/a&gt; EE - Instrument Clusters group.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>#transitiongoals</title>
+      <link>https://szechy.me/blog/transition-goals/</link>
+      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://szechy.me/blog/transition-goals/</guid>
+      <description>
+
+&lt;p&gt;As this semester ends, I stand on the precipice of a fake graduation: I’ll be spending eight months working in the real world in the California Bay Area far away from Ann Arbor and the world I currently know. I’ll be in the Bay Area from May through December (if you’re in the area, I would love to see you — please message me via Twitter or Facebook or carrier pigeon!), but more then that: I’ll be far away from all of my friends and family in Michigan and southwest Ontario.&lt;/p&gt;
+
+&lt;p&gt;With this small life transition in the next month precipitating a huge life transition post-graduation, I’ve started feeling… a bit lost. Growing up through the modern American school system means having academic goals set reguarly for myself. But the real world isn’t as straightforward, and this transition seemed like an opportunity to come up with some real life goals, based around ideas and thoughts that I’ve had in my head that have been blocked by schoolwork or school-related activities. With a large amount of time to spend outside of work, I want some ideas of how to spend that time well.&lt;/p&gt;
+
+&lt;p&gt;Another goal is to remind my future self of my current mindset and priorities. This is something that I think I struggle with a lot — understanding myself, and how I change over time.&lt;/p&gt;
+
+&lt;p&gt;I’ve also tried to structure this list as achievable and/or concrete (oftentimes quantitative) goals. I’ve included some goals at the bottom that are more general, but I wasn’t sure how to make achievable or concrete in a good way.&lt;/p&gt;
+
+&lt;h2 id=&#34;personal-growth-things&#34;&gt;“Personal growth” things&lt;/h2&gt;
+
+&lt;p&gt;“Personal growth” is in quotes because I really don’t know what I want out of personal growth, or what personal growth really means. However, all of the following were things I wanted to do, that others seem to describe as personal growth — in that they are .&lt;/p&gt;
+
+&lt;h3 id=&#34;meet-five-5-people-in-a-one-on-one-setting&#34;&gt;Meet five (5) people in a one-on-one setting&lt;/h3&gt;
+
+&lt;p&gt;I think I struggle to meet and get to know new people, well, because I’m on the shyer side when it comes to completely new people, not that sociable, and poor at making small talk. I want to meet five new people, one-on-one, over a meal or some other prolonged activity (at least an hour) to meet new people, and simply practice social skills. Ideally, at least some of these are dates, and not all of them are over food but incorporate other activities (like hiking).&lt;/p&gt;
+
+&lt;h3 id=&#34;visit-five-5-iconic-places-in-nature&#34;&gt;Visit five (5) iconic places in nature&lt;/h3&gt;
+
+&lt;p&gt;I’ve spent a total of four days on the West Coast (or west of Austin, TX) in my life — I want to make the most of visiting and exploring the great Western United States and its nature. I’ve only been camping for a total of three nights, and I don’t have a specific list.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;bigsur.jpg&#34; alt=&#34;leftpic&#34; /&gt; &lt;!--Big Sur--&gt;&lt;/p&gt;
+
+&lt;p&gt;Other then setting a goal, I don’t have a great plan to achieve this one, which is intentional: I want to meet other like-minded people who are also motivated to explore. I’ve been thinking about places like Yosemite, Big Sur, and Mission Peak, as well as Crater Lake, Lake Tahoe, Desert Valley, Sequoia National Park, and Land’s End. The sheer number of iconic opportunities in California, versus Michigan, is dazzling.&lt;/p&gt;
+
+&lt;h3 id=&#34;take-an-amazing-photo-every-week&#34;&gt;Take an amazing photo every week&lt;/h3&gt;
+
+&lt;p&gt;I’ve always had an interest in photography (after buying a dSLR in eighth grade), but haven’t had time to pursue it in college. Without the obligations of school, I should have time to get more use out of my dSLR camera (or maybe buy a new one, since mine is from 2008 and has less megapixels then my iPhone) or take casual, opportune shots with my iPhone. Setting a goal of one high-quality photo worth sharing on my Flickr or with friends is a way to begin trying to do that again. I want to explore more portrait photography, which ties in nicely with some of my other goals that have social elements.&lt;/p&gt;
+
+&lt;h3 id=&#34;read-24-books&#34;&gt;Read 24 books&lt;/h3&gt;
+
+&lt;p&gt;The stereotypical reading goal is 24 books in a year, or two per month. I want to hold myself to that as well, and I’ve started actively tracking what I’ve read on Goodreads. I‘m starting this week with the historical fiction novel It Can’t Happen Here by Sinclair Lewis, which describes the rise of a populist fascist US President in the mid-1930s (perhaps a bit appropriate to this year).&lt;/p&gt;
+
+&lt;h3 id=&#34;document-what-i-created-and-consumed-for-every-day&#34;&gt;Document what I created and consumed for every day&lt;/h3&gt;
+
+&lt;p&gt;This is inspired by someone else (for whom I can’t find the link), who has documented for multiple years what content they consumed (primarily video, books, and podcasts) for several years, to look at and reflect on later. I attempted to do the same job in January and stopped due to failing to remember between school, coursework, and extracurriculars — so I’d like to renew my focus on that.&lt;/p&gt;
+
+&lt;p&gt;This might be something I post monthly about on Medium, to keep myself on track (and as recommendations to other people).&lt;/p&gt;
+
+&lt;h3 id=&#34;become-physically-fit&#34;&gt;Become physically fit&lt;/h3&gt;
+
+&lt;p&gt;I currently weigh more today then I have ever weighed in my life before, and not in a good way. This trend needs to change immediately. Even better: I’d like to finally become toned, remove most of my fat, and not be ashamed to see my body in the mirror. Here are my actionables on that:&lt;/p&gt;
+
+&lt;h3 id=&#34;physical-activity-every-day&#34;&gt;Physical activity every day&lt;/h3&gt;
+
+&lt;!--My team in last summer’s intern basketball league, which rekindled a love of basketball and being outside.--&gt;
+
+&lt;p&gt;&lt;img src=&#34;basketball.jpg&#34; alt=&#34;leftpic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I currently weigh more today then I have ever weighed in my life before, and not in a good way. So, I want to get up and move significantly every day. At the minimum, this means a gym visit or a run of over two miles, or playing frisbee or basketball or skateboarding. Just something physical and active. As a subgoal, I want to play hockey (street or on a rink) at least once.&lt;/p&gt;
+
+&lt;h3 id=&#34;gym-three-times-a-week&#34;&gt;Gym three times a week&lt;/h3&gt;
+
+&lt;p&gt;As part of physical activity every week, I want to have a regular gym routine. I’m not 100% sure what my routine will be (other then that I don’t want to skip leg day) or how it will fit into my schedule yet, but there’ll be a gym at the apartment complex I’ll be living at, and possibly at work. I’m thinking about trying to do this as part of my morning pre-work routine for the first time in my life.&lt;/p&gt;
+
+&lt;h3 id=&#34;run-a-5k-without-stopping&#34;&gt;Run a 5k without stopping&lt;/h3&gt;
+
+&lt;p&gt;I’ve always wanted to run a 5k without stopping. If I can get into a routine of running, and slowly pushing myself, this should definitely be accomplishable by December.&lt;/p&gt;
+
+&lt;h2 id=&#34;do-technical-things&#34;&gt;Do technical things&lt;/h2&gt;
+
+&lt;h3 id=&#34;apply-for-grad-school&#34;&gt;Apply for grad school&lt;/h3&gt;
+
+&lt;p&gt;I want to seriously apply to computer science doctorate (and maybe masters’) programs in the upcoming year (most applications are due in December). That means, in this order: scouting out possible schools (ideally in CS systems research), trying to make connections with possible research advisors at those schools, studying for and taking the GRE this summer, getting three recommendation letters, applying for a NSF Graduate Fellowship, and making an amazing personal statement (especially with my GPA). Not simple or straightforward, but something I want to explore.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure if I want to go to grad school, but it has a lot of appeal to me, and I’d like to keep the option open.&lt;/p&gt;
+
+&lt;h3 id=&#34;return-offer&#34;&gt;Return offer&lt;/h3&gt;
+
+&lt;p&gt;Pretty clear-cut: I want to perform extremely well during my internship/co-op-, so I can have the ability to return after I get my undergraduate degree, regardless of what I want to do next with my life.&lt;/p&gt;
+
+&lt;h3 id=&#34;volunteer-with-chezy-champs&#34;&gt;Volunteer with Chezy Champs&lt;/h3&gt;
+
+&lt;!--Chezy Champs 2014. (Photo credit: Team 254)--&gt;
+
+&lt;p&gt;&lt;img src=&#34;chezychamps.jpg&#34; alt=&#34;rightpic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I haven’t given back to the high school robotics community (specifically the FIRST Robotics Competition) since high school graduation and leaving Team 2337, the EngiNERDs, due to college. I’d like to check out the California FRC scene to see if it’d be something I’m interested in, and volunteering at the premier offseason in the area, Chezy Champs, seems like a great way to do so.&lt;/p&gt;
+
+&lt;h2 id=&#34;fun-things&#34;&gt;Fun things&lt;/h2&gt;
+
+&lt;h3 id=&#34;beat-a-pokemon-game&#34;&gt;Beat a Pokemon game&lt;/h3&gt;
+
+&lt;p&gt;I had never owned a Nintendo handheld console, until I walked into an Ann Arbor gaming store in August and bought an old DS Lite and Pokemon Platinum. I think I’m missing out on an important part of everyone’s childhood if I don’t beat the Elite Four. I’m currently stuck at Spear Pillar, after nine months of having owned the game with school and other activities in the way, so hopefully I can pick it back up in California.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;selfie.jpg&#34; alt=&#34;rightpic&#34; /&gt;
+&lt;!--A normal, boring selfie with Tim Cook. What if he had a massive grin on his face, like my normal selfies with people?--&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;get-a-ridiculous-selfie-with-a-silicon-valley-icon&#34;&gt;Get a ridiculous selfie with a Silicon Valley icon&lt;/h3&gt;
+
+&lt;p&gt;If I’m going to be in the Valley for eight months, attending various intern and different companies’ events, I desperately want a ridiculous selfie with Larry Page, Tim Cook, Sheryl Sandberg, Jony Ive, or someone of that status.&lt;/p&gt;
+
+&lt;h3 id=&#34;get-a-ride-around-an-amazing-racetrack&#34;&gt;Get a ride around an amazing racetrack&lt;/h3&gt;
+
+&lt;p&gt;California is full of amazing, iconic racetracks like Laguna Seca, Thunderhill, Sonoma/Infineon, and Willow Springs. I want to get out to at least one, and get a ride around it (driving, or as a passenger), hopefully with friends. That likely means going to a track day, and striking up conversations with fellow automotive enthusiasts.&lt;/p&gt;
+
+&lt;h3 id=&#34;go-to-a-sf-cars-and-coffee-and-or-pebble-beach-concours-d-elegance&#34;&gt;Go to a SF Cars and Coffee and/or Pebble Beach Concours d’Elegance&lt;/h3&gt;
+
+&lt;p&gt;Like the previous item, the main goal here is to actually invigorate my love of cars by finding people who are also into cars, and going to awesome events with them. SF Cars and Coffee is a small impromptu car show/discussion on the first Saturday of every month on Treasure Island, and Pebble Beach’s Concours d’Elegance, an insanely amazing car show of iconic prewar and postwar cars, is from August 16–21.&lt;/p&gt;
+
+&lt;h3 id=&#34;solve-a-rubik-s-cube&#34;&gt;Solve a Rubik’s Cube&lt;/h3&gt;
+
+&lt;p&gt;After my friends Mayank, Pavi, and Connor picked up solving Rubik’s cubes this semester, I was reminded that I’ve always wanted to learn to solve one.&lt;/p&gt;
+
+&lt;h3 id=&#34;become-ok-at-skateboarding&#34;&gt;Become OK at skateboarding&lt;/h3&gt;
+
+&lt;p&gt;I got a skateboard for Christmas, and I’m going to be in California. Hopefully it’ll be a useful way to commute to work, and I can become comfortable that way.&lt;/p&gt;
+
+&lt;h2 id=&#34;goals-that-i-m-not-sure-how-to-tackle&#34;&gt;Goals that I’m not sure how to tackle&lt;/h2&gt;
+
+&lt;p&gt;For most of these goals, I’m just not sure how to tackle them in a quantitative or achievable way. But I want to be thinking about them, and possibly come up with milestones as my time in California goes.&lt;/p&gt;
+
+&lt;h3 id=&#34;stop-chewing-my-nails&#34;&gt;Stop chewing my nails&lt;/h3&gt;
+
+&lt;p&gt;My nails have not really grown in — I’ve left them bitten to the quick for years, and it needs to end. I’m just not sure how to constructively try to work on this, other then just cold turkey forever (definitely an option, but I’ve tried it before and failed). If you have any advice, please send me a message!&lt;/p&gt;
+
+&lt;h3 id=&#34;have-a-better-sense-of-style-and-wardrobe&#34;&gt;Have a better sense of style and wardrobe&lt;/h3&gt;
+
+&lt;p&gt;I’ve had numerous people, for years, tell me that my daily outfits are boring and very similar to other people. I have also rarely received compliments on my haircuts, especially not when I rocked the Bieber bowl cut. I want to reverse this trend by being more conscientious about what I wear, and finding a haircut that myself and others enjoy.&lt;/p&gt;
+
+&lt;h3 id=&#34;start-cooking&#34;&gt;Start cooking&lt;/h3&gt;
+
+&lt;p&gt;Last summer living in Austin, removed from Michigan and my family, I began to conservatively cook for myself. I’d like to become even better and take this to the next level, although I’m not sure how to do so yet.&lt;/p&gt;
+
+&lt;h3 id=&#34;help-ship-an-ios-app&#34;&gt;Help ship an iOS app&lt;/h3&gt;
+
+&lt;p&gt;I’ve had a couple of ideas, primarily related to the FIRST Robotics Competition, and I might try to see where I can get with them before and after my work term.&lt;/p&gt;
+
+&lt;h3 id=&#34;own-a-console-play-more-video-games&#34;&gt;Own a console/play more video games (?)&lt;/h3&gt;
+
+&lt;p&gt;I’ve essentially stopped playing video games since I went to college. I’ve never fully determined if not playing video games was a good or a bad thing, but it’s something I think about. I think I enjoy social video games the most — whether playing Team Fortress 2 with friends online, or Super Smash Bros. or Forza in person — but a lot of video games are solitary activities that waste time, and don’t necessarily contribute a lot to building interesting, healthy people. There are many video games that have various benefits, and having something mindless for downtime is always good — but spending hundreds of dollars on that… I haven’t made up my mind.&lt;/p&gt;
+
+&lt;h3 id=&#34;write-more&#34;&gt;Write more&lt;/h3&gt;
+
+&lt;p&gt;Documenting these goals seems like a good first step! So does writing about the monthly content I’m consuming.&lt;/p&gt;
+
+&lt;h2 id=&#34;last-thoughts&#34;&gt;Last thoughts&lt;/h2&gt;
+
+&lt;p&gt;I don’t anticipate on achieving all of these goals that are not the physical fitness ones. A lot of these goals are very normal/“stereotypical”, but I don’t think that’s a bad thing. Trying new things to learn more about one’s self, physical fitness, and having fun are all important things that nearly all humans seek and enjoy. Having some sort of idea of how to achieve that — by, say, making a list of possible ideas that have been spun around in one’s mind a lot — is helpful and useful.&lt;/p&gt;
+
+&lt;p&gt;I’ll miss everyone in Michigan and southwest Ontario, and look forward to seeing you around the next MHacks in the fall, Thanksgiving, and after December!&lt;/p&gt;
+
+&lt;p class=&#34;text-muted&#34;&gt;I want to give a big thanks to &lt;a href=&#34;https://medium.com/@stestefanfan/done-ba4319ec440d#.f8oinrik7&#34;&gt;Stefan Aleksic’s //DONE article&lt;/a&gt; for inspiring this goal creation process, and some of the goals themselves.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I lost my fitness band and now I don’t know what to do</title>
+      <link>https://szechy.me/blog/fitness-band/</link>
+      <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://szechy.me/blog/fitness-band/</guid>
+      <description>&lt;p&gt;OK, so I don’t feel that desperate, I promise. I’ve only felt anxious and nervous and wrong a couple of times today. And a couple more times yesterday. OK? And each of the six days before that, which is perfectly fine. Right? Right?&lt;/p&gt;
+
+&lt;p&gt;Maybe I just need to get this situation off my chest, and I won’t feel this way.&lt;/p&gt;
+
+&lt;p&gt;So for Christmas six months ago, I decided to get a fitness wearable. I’m not pleased with the shape my body is in as my body fat percentage is really where I don’t want it to be, and at school I don’t sleep as much as I should, and I never had time to work out. So, I thought that getting data on my sleep and physical activity would be useful. I also liked the idea of having a smart alarm to wake me up at the “optimum” point in my sleep cycle. Looking over reviews online, I decided to get a Jawbone UP24, because it actually looked good, and tracked the basics at a good price.&lt;/p&gt;
+
+&lt;p&gt;After having to get a replacement because the original band didn’t work, I gave the UP24 a shot at working in my life. Immediately, I had constant feedback on what I was doing, at all times. Every morning, I had new data to pour over on my sleep and sleep cycles. Every evening, the results of a new game to beat my steps goal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;withband.jpg&#34; alt=&#34;leftpic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Picture of myself and the companion, out for the day with matching flowers&lt;/p&gt;
+
+&lt;p&gt;It was like my Twitter feed: my UP app became a hub of new information that was different every hour — the perfect complement to the other content I was checking obsessively. Unlike the sick Taylor Swift BuzzFeed quiz on whether Eddy Cue or Calvin Harris is right for her, or my new group message notifications from my friend group back in Michigan and the group in Texas and the Facebook notifications from Hackathon Hackers and -&lt;/p&gt;
+
+&lt;p&gt;Oh, right. So, my UP app was different. The app was about meeting my goals, keeping track of where I am physically, and staying on track for becoming healthier and being fit. I absolutely loved beating my step count, being under on my calorie count for the day (food was something I just started logging in the last month), and seeing my sleep quality statistics. My band was more then on my wrist: it felt more like a never-resting companion that would never leave, supporting me on my way to the better health I wanted.&lt;/p&gt;
+
+&lt;p&gt;This love wasn’t perfect. My UP24 wasn’t waterproof, so it didn’t accompany me to the shower. The band’s orange skin also got dirty quickly, and in the last week became loose and could be shifted to completely overlap the button at one end. But no love is, right?&lt;/p&gt;
+
+&lt;p&gt;Six months in a statement is an interesting time. It’s right after one of the two make-or-break points, I think, which is: is this relationship going to be long or short-term? Around three or four months, there’s been enough time for the two sides to become familiar with one another’s foibles, flaws, and favorites — emotionally, mentally, even physically.&lt;/p&gt;
+
+&lt;p&gt;I was six months in when the band left me. I took it off to play sweaty sand volleyball. I set it in my shoes… and came back an hour later to find it lying on the dirty ground. No problem, I’ll just briefly wash it off when I get home, I said as I put it somewhere and -
+that was the last time I saw it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No big deal,&lt;/em&gt; I thought. &lt;em&gt;I don’t need my fitness band, and it’s not as expensive as my iPhone or Mac — man, both of which I’d be up a creek without.&lt;/em&gt; Suddenly, I had this hole I could fill with another gadget. &lt;em&gt;Hey, this means I have an excuse to get an Apple Watch. Or I could buy another band. Or I could be responsible this summer and save that $100+ for university. Or I could simply relax without one. I lived without the band once, I can do it again for a while. It’s not essential to my life.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I quickly put the matter of losing the band out of my mind for the rest of the day, distracted by volleyball and basketball and friends, and I hadn’t thought about it until I went to bed that night.&lt;/p&gt;
+
+&lt;p&gt;When I first became acquainted with my band, my arms felt awkward — visually lopsided by the vibrant orange wristband. Over the first three months of wearing the band, the difference in appearance gradually became a new normal.&lt;/p&gt;
+
+&lt;p&gt;As I was putting on pajamas, suddenly it hit me: how disorienting it was not to visibly see the band against my arm.&lt;/p&gt;
+
+&lt;p&gt;I laid in bed, and immediately reached to press the button to put the tracker in sleep mode — no, it wasn’t there. I immediately felt disorientated. It honestly felt like a key part of me was missing. I didn’t get why I felt this way then about a simple band, but that’s how I felt. And still do.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;band.jpg&#34; alt=&#34;rightpic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I finally woke up in the morning, turned off my alarm, and reached to press the button — no, it still wasn’t there. I felt confusion… and fear. Fear that this morning’s sleep wouldn’t be tracked, and there was now officially a hole in my data. My weekly average was messed up, my spot in the top 20% of UPers for steps in jeop— no, stop. Colin. Shake it off, just like Tay would do. It’s just a piece of plastic, fiberglass and silicon. This band is not like I had lost a relationship with someone, just something. It wasn’t, it couldn’t, it shouldn’t be as important. Right?!?&lt;/p&gt;
+
+&lt;p&gt;As part of routine, this all went on while I got ready for a morning shower. I simultaneously tried to grab the band and take it off without look — no! Why did I keep on going for it? How did walking into the bathroom cause a Pavlovian response to play with the band?&lt;/p&gt;
+
+&lt;p&gt;I took my shower, trying to refocus for work that day. I got out, dried myself off, brushed my teeth, and put on deodorant. Out of pure habit, before leaving, I looked frantically around my bathroom for a neon orange circle. I was used to having to search for things for a long time, and being flummoxed by temporarily losing important things before finding them in the last time I had seen them. But this time, I had no such last place. The band was gone. It was truly gone.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

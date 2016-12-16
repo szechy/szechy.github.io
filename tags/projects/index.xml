@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin Szechy</title>
+    <link>https://szechy.me/tags/projects/index.xml</link>
+    <description>Recent content on Colin Szechy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://szechy.me/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://szechy.me/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://szechy.me/projects/</guid>
+      <description>&lt;section id=&#34;projects&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;h3&gt;Projects&lt;/h3&gt;
+    &lt;div class=&#34;panel panel-default&#34;&gt;
+      &lt;div class=&#34;panel-body&#34;&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://mhacks.github.io/index.html&#34;&gt;MHacks Refactor Hacker Boards&lt;/a&gt;&lt;/strong&gt; (Feb 2016) - An affordable, easy entry into hardware hacking with an ESP8266 (Arduino + Wi-Fi), including &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-refactor&#34;&gt;open-source hardware&lt;/a&gt; and a &lt;a target=&#34;_blank&#34; href=&#34;https://docs.google.com/presentation/d/18SB5dQ9jybFw33IrWsfLmodS6KLpkOtznJnRdo14fbk/edit&#34;&gt;workshop&lt;/a&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/szechy/doorjamb-node&#34;&gt;Gateway&lt;/a&gt;&lt;/strong&gt; (Dec 2015) - A low-power doorway tracking idea for indoor localization, implemented as a a low-power &lt;a target=&#34;_blank&#34; href=&#34;https://www.cs.virginia.edu/~whitehouse/research/buildingEnergy/hnat12doorjamb.pdf&#34;&gt;Doorjamb&lt;/a&gt; revision. Built using NXP nRF51822 SoCs communicating over Bluetooth LE to an Intel Edison with a Node.js server and MongoDB database.
+      &lt;/h5&gt;
+        &lt;h5&gt;
+        &lt;i class=&#34;fa fa-github&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-six&#34;&gt;MHacks 6 Hacker Boards&lt;/a&gt;&lt;/strong&gt; (Sept 2015) - An affordable, easy entry into hardware hacking with an Arduino Leonardo clone, including a &lt;a href=&#34;href=&#34;https://docs.google.com/presentation/d/15O3TXqOf3Xi9S6ba83HRF5j0ccdkGcIPRQTYAptkbrs/edit#slide=id.p&#34;&#34;&gt;workshop&lt;/a&gt; given at MHacks 6.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-wheelchair-alt&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a&gt;MyBot&lt;/a&gt;&lt;/strong&gt; (Feb 2015) - A wheelchair built on a FRC robot chassis, controllable via a Thalmic Labs Myo armband through an iPhone app. Won its category at the 2015 &lt;a target=&#34;_blank&#34; href=&#34;https://mpowered.umich.edu/makeathon&#34;&gt;MPowered Makeathon&lt;/a&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-car&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://mhacks-iv.devpost.com/submissions/26116-backseat-driver&#34;&gt;Backseat Driver&lt;/a&gt;&lt;/strong&gt; (Sept 2014) - An Android app that would teach new drivers how to drive a manual transmission vehicle, with data from an OBDII-Bluetooth dongle. Built at MHacks IV.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-car&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;Formula SAE instrument cluster&lt;/strong&gt; (April 2014) - An Arduino-based dashboard and automatic transmission controller for &lt;a target=&#34;_blank&#34; href=&#34;https://mracing.engin.umich.edu&#34;&gt;MRacing&lt;/a&gt;.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;FRC Abacus&lt;/strong&gt; (July 2013) - An Android app serving as a FRC alliance selection tool for the 2013 IRI.
+      &lt;/h5&gt;
+      &lt;h5&gt;
+        &lt;i class=&#34;fa fa-android&#34;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.chiefdelphi.com/forums/showthread.php?t=116908&#34;&gt;FRC 2337 Crossfire robot&lt;/strong&gt;&lt;/a&gt; (April 2013) - Lead programmer and driver for the 2013 &lt;a target=&#34;_blank&#34; href=&#34;http://team2337.com&#34;&gt;FRC 2337&lt;/a&gt; robot, which played a version of ultimate frisbee and finished as state runners-up and qualified for the world championship.
+      &lt;/h5&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

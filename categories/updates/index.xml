@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin Szechy</title>
+    <link>https://szechy.me/categories/updates/index.xml</link>
+    <description>Recent content on Colin Szechy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link href="https://szechy.me/categories/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>updates</title>
+      <link>https://szechy.me/updates/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://szechy.me/updates/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+&lt;h3&gt;Updates&lt;/h3&gt;
+  &lt;div class=&#34;panel panel-default&#34;&gt;
+    &lt;div class=&#34;panel-body&#34;&gt;
+      &lt;div class=&#34;row&#34;&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            April 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Won third place in the &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;http://michiganhackers.org&#34;&gt;Michigan Hackers&lt;/a&gt;&lt;/strong&gt; and Facebook&#39;s Winter 2016 Capture the Flag event with &lt;a target=&#34;_blank&#34; class=&#34;normal-nobold&#34; href=&#34;http://thomasfinch.me&#34;&gt;Tom Finch&lt;/a&gt;, &lt;a target=&#34;_blank&#34; class=&#34;normal-nobold&#34; href=&#34;http://pavi.rocks&#34;&gt;Pavi Vetriselvan&lt;/a&gt;, and &lt;a target=&#34;_blank&#34; class=&#34;normal-nobold&#34; href=&#34;https://www.linkedin.com/in/varsha-tirukonda-2ab7a2102&#34;&gt;Varsha Tirukonda&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            March 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+          Won the &lt;strong&gt;&lt;a target=&#34;_blank&#34; href=&#34;https://www.eecs.umich.edu/eecs/students/awards/undergraduate/15-16awards.html&#34;&gt;Commercial&lt;wbr&gt;ization/&lt;wbr&gt;Entrepreneur&lt;wbr&gt;ship Award&lt;/a&gt;&lt;/strong&gt; from the University of Michigan EECS Department for my work with companies at &lt;a target=&#34;_blank&#34; href=&#34;https://mhacks.org&#34;&gt;MHacks&lt;/a&gt; and with the &lt;a target=&#34;_blank&#34; href=&#34;http://eecs.umich.edu/hub&#34;&gt;Embedded System Hub&lt;/a&gt;.
+       &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            February 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           The &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-refactor&#34;&gt;&lt;strong&gt;MHacks: Refactor Hacker Boards&lt;/strong&gt; libraries, schematics, and workshop files&lt;/a&gt; were released, including a &lt;a target=&#34;_blank&#34; href=&#34;http://mhacks.github.io&#34;&gt;documentation site&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            September 2015
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           The &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-six&#34;&gt;&lt;strong&gt;MHacks 6 Hacker Boards&lt;/strong&gt; libraries, schematics, and workshop files&lt;/a&gt; were released.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            August 2015
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Finished a summer internship in &lt;a target=&#34;_blank&#34; href=&#34;http://www.ni.com/rf/&#34;&gt;&lt;strong&gt;National Instruments&#39;&lt;/strong&gt; RF Software&lt;/a&gt; group.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            February 2015
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Won the Health and Wellness Category at MPowered Makeathon with MyBot, working with &lt;a target=&#34;_blank&#34; href=&#34;https://twitter.com/ograff&#34;&gt;Oliver Graff&lt;/a&gt; and &lt;a target=&#34;_blank&#34; href=&#34;https://www.facebook.com/brandon.horsch&#34;&gt;Brandon Horsch&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            September 2014
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Won the Chrysler Connected Car Prize, Best Societal Hack, and FarmLogs Best Use of Mobile Sensor Data at MHacks IV with &lt;a target=&#34;_blank&#34; href=&#34;https://mhacks-iv.devpost.com/submissions/26116-backseat-driver&#34;&gt;&lt;strong&gt;Backseat Driver&lt;/strong&gt;&lt;/a&gt;, working with &lt;a target=&#34;_blank&#34; href=&#34;http://katelyndunaski.com&#34;&gt;Katelyn Dunaski&lt;/a&gt;, &lt;a target=&#34;_blank&#34; href=&#34;https://www.twitter.com/DGRiyu&#34;&gt;Riyu Banerjee&lt;/a&gt;, and &lt;a target=&#34;_blank&#34; href=&#34;http://michael-ray.net/index.html&#34;&gt;Michael Ray&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            August 2014
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           Started working at the &lt;a target=&#34;_blank&#34; href=&#34;https://www.eecs.umich.edu/hub&#34;&gt;&lt;strong&gt;Michigan Embedded System Hub/Student Projects Lab&lt;/strong&gt;&lt;/a&gt;.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            August 2014
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+            Finished a summer internship in &lt;a target=&#34;_blank&#34; href=&#34;http://fcagroup.com&#34;&gt;&lt;strong&gt;Fiat Chrysler&#39;s&lt;/strong&gt;&lt;/a&gt; EE - Instrument Clusters group.
+          &lt;/h5&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
