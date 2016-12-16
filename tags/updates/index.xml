@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colin Szechy</title>
-    <link>https://szechy.me/tags/updates/index.xml</link>
+    <link>http://szechy.me/tags/updates/index.xml</link>
     <description>Recent content on Colin Szechy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://szechy.me/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://szechy.me/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>updates</title>
-      <link>https://szechy.me/updates/</link>
+      <link>http://szechy.me/updates/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://szechy.me/updates/</guid>
+      <guid>http://szechy.me/updates/</guid>
       <description>&lt;div class=&#34;container&#34;&gt;
 &lt;h3&gt;Updates&lt;/h3&gt;
   &lt;div class=&#34;panel panel-default&#34;&gt;

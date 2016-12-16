@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colin Szechy</title>
-    <link>https://szechy.me/index.xml</link>
+    <link>http://szechy.me/index.xml</link>
     <description>Recent content on Colin Szechy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
-    <atom:link href="https://szechy.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://szechy.me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>https://szechy.me/projects/</link>
+      <link>http://szechy.me/projects/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://szechy.me/projects/</guid>
+      <guid>http://szechy.me/projects/</guid>
       <description>&lt;section id=&#34;projects&#34;&gt;
   &lt;div class=&#34;container&#34;&gt;
     &lt;h3&gt;Projects&lt;/h3&gt;
@@ -56,10 +56,10 @@
     
     <item>
       <title>updates</title>
-      <link>https://szechy.me/updates/</link>
+      <link>http://szechy.me/updates/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://szechy.me/updates/</guid>
+      <guid>http://szechy.me/updates/</guid>
       <description>&lt;div class=&#34;container&#34;&gt;
 &lt;h3&gt;Updates&lt;/h3&gt;
   &lt;div class=&#34;panel panel-default&#34;&gt;
@@ -165,10 +165,10 @@
     
     <item>
       <title>#transitiongoals</title>
-      <link>https://szechy.me/blog/transition-goals/</link>
+      <link>http://szechy.me/blog/transition-goals/</link>
       <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://szechy.me/blog/transition-goals/</guid>
+      <guid>http://szechy.me/blog/transition-goals/</guid>
       <description>
 
 &lt;p&gt;As this semester ends, I stand on the precipice of a fake graduation: I’ll be spending eight months working in the real world in the California Bay Area far away from Ann Arbor and the world I currently know. I’ll be in the Bay Area from May through December (if you’re in the area, I would love to see you — please message me via Twitter or Facebook or carrier pigeon!), but more then that: I’ll be far away from all of my friends and family in Michigan and southwest Ontario.&lt;/p&gt;
@@ -318,10 +318,10 @@
     
     <item>
       <title>I lost my fitness band and now I don’t know what to do</title>
-      <link>https://szechy.me/blog/fitness-band/</link>
+      <link>http://szechy.me/blog/fitness-band/</link>
       <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://szechy.me/blog/fitness-band/</guid>
+      <guid>http://szechy.me/blog/fitness-band/</guid>
       <description>&lt;p&gt;OK, so I don’t feel that desperate, I promise. I’ve only felt anxious and nervous and wrong a couple of times today. And a couple more times yesterday. OK? And each of the six days before that, which is perfectly fine. Right? Right?&lt;/p&gt;
 
 &lt;p&gt;Maybe I just need to get this situation off my chest, and I won’t feel this way.&lt;/p&gt;
