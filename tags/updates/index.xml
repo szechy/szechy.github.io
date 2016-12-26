@@ -19,6 +19,16 @@
   &lt;div class=&#34;panel panel-default&#34;&gt;
     &lt;div class=&#34;panel-body&#34;&gt;
       &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
+            October 2016
+          &lt;/h5&gt;
+         &lt;/div&gt;
+         &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           The &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/mhacks/hacker-boards-eight&#34;&gt;&lt;strong&gt;MHacks: 8 Hacker Boards&lt;/strong&gt; libraries, schematics, and workshop files&lt;/a&gt; were released, including a &lt;a target=&#34;_blank&#34; href=&#34;http://mhacks.github.io&#34;&gt;documentation site&lt;/a&gt;. A re-release of the MHacks: Refactor Hacker Boards.
+          &lt;/h5&gt;
+        &lt;/div&gt;
         &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
           &lt;h5 style=&#34;text-align: right&#34;&gt;
             April 2016
