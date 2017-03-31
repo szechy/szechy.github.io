@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #834c46;/*#27A822;*/
+  border-top: 3px solid #8B1C10;/*#27A822;*/
 }
 /* Wrapper for page content to push down footer */
 #wrap {
@@ -96,10 +96,10 @@ body {
   margin: 20px 0;
 }
 .container a {
-  color: #834c46;/*#27A822;*/
+  color: #B41100;/*#27A822;*/
 }
 .container a:hover {
-  color: #461611;/*#267723;*/
+  color: #8B1C10;/*#267723;*/
 }
 .img-responsive {
  display: block;
@@ -120,10 +120,10 @@ body {
   font-size: 15px;
 }
 .panel-default h4 a, h5 a {
-  color: #834c46;/*#27A822;*/
+  color: #B41100;/*#B8827C;*//*#834c46;*//*#27A822;*/
 }
 .panel-default h4 a:hover, h5 a:hover {
-  color: #461611;/*#267723;*/
+  color: #8B1C10;/*#461611;*//*#267723;*/
 }
 .panel{
   border-style: none;
@@ -177,14 +177,18 @@ img[alt=leftpic] {
   max-width: 45%;
   float: left;
   padding: 5px;
-  padding-right:20px;
+  padding-bottom:35px;
+  padding-top:35px;
+  padding-right:35px;
 }
 
 img[alt=rightpic] {
   max-width: 45%;
   float: right;
   padding: 5px;
-  padding-left:20px;
+  padding-bottom:35px;
+  padding-top:35px;
+  padding-left:35px;
 }
 
 /* Footer 
@@ -197,7 +201,7 @@ img[alt=rightpic] {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #834c46;/*#27A822;;*/
+  border-bottom: 5px solid #8B1C10;/*#27A822;;*/
 }
 /* Set the fixed height of the footer here */
 /*.footer {
