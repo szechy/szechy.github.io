@@ -17,12 +17,47 @@
       <description>&lt;div class=&#34;container&#34;&gt;
 &lt;h2&gt;Bookshelf&lt;/h2&gt;
 &lt;center&gt;
-  &lt;p&gt;Here&#39;s a list of books that I&#39;ve read as an adult (I&#39;m also on &lt;a href=&#34;https://www.goodreads.com/szechy&#34;&gt;Goodreads&lt;/a&gt;).&lt;/p&gt;
+  &lt;p&gt;Here&#39;s a list of books that I&#39;ve read recently (I&#39;m also on &lt;a href=&#34;https://www.goodreads.com/szechy&#34;&gt;Goodreads&lt;/a&gt;).&lt;/p&gt;
   &lt;p&gt;&lt;strong&gt;Bold&lt;/strong&gt; means must read/strong recommendation. &lt;i&gt;Italics&lt;/i&gt; means worth reading/weaker recommendation.&lt;/p&gt;
 &lt;/center&gt;
   &lt;div class=&#34;panel panel-default&#34;&gt;
     &lt;div class=&#34;panel-body&#34;&gt;
     &lt;center&gt;&lt;h3&gt;2017&lt;/h3&gt;&lt;/center&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+        &lt;p style=&#34;text-align: right&#34;&gt;
+          &lt;a href=&#34;https://smile.amazon.com/Its-Complicated-Social-Lives-Networked/dp/0300166311&#34;&gt;&lt;i&gt;It&#39;s Complicated: The Social Lives of Networked Teens&lt;br&gt;danah boyd (2017)&lt;/i&gt;&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+        &lt;p style=&#34;text-align: left&#34;&gt;
+        Although it&#39;s written more from the perspective of trying to help parents, I got a lot out of a rigorous academic look at my, and what feels like everyone my age&#39;s, adolescence online. I personally identified with most topics and ideas about social media use in this book.
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+        &lt;p style=&#34;text-align: right&#34;&gt;
+          &lt;a href=&#34;https://smile.amazon.com/Everyones-Aliebn-When-Ur-Too/dp/0062569023/&#34;&gt;&lt;b&gt;Everyone&#39;s a Aliebn When Ur a Aliebn Too: A Book&lt;br&gt;Jomny Sun (2017)&lt;/b&gt;&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+        &lt;p style=&#34;text-align: left&#34;&gt;
+        Every page of the graphic novel either brings a smile or a tear to my face. Jomny captures basic, weird parts of being a human being with feelings beautifully through his characters and his &lt;a href=&#34;https://twitter.com/jonnysun&#34;&gt;Twitter feed&lt;/a&gt;.
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;    &lt;div class=&#34;row&#34;&gt;
+      &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+        &lt;p style=&#34;text-align: right&#34;&gt;
+          &lt;a href=&#34;https://smile.amazon.com/Storm-Front-Dresden-Files-Butcher/dp/0451457811/&#34;&gt;&lt;b&gt;The Dresden Files&lt;br&gt;Jim Butcher (2000-2014)&lt;/b&gt;&lt;/a&gt;
+        &lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+        &lt;p style=&#34;text-align: left&#34;&gt;
+        I read all 15 books in this fictional series in one month, and could barely put them down. The world is mesmerizing and deep, and the characters (and their interactions) fascinating and wonderful.
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
     &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
         &lt;p style=&#34;text-align: right&#34;&gt;
