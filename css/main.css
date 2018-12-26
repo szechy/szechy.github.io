@@ -6,7 +6,7 @@ body {
   background-color: #fff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
-  border-top: 3px solid #8B1C10;/*#27A822;*/
+  border-top: 5px solid #8B1C10;/*#27A822;*/
 }
 /* Wrapper for page content to push down footer */
 #wrap {
@@ -14,7 +14,7 @@ body {
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
-  margin: 0 auto -65px;
+  margin: 0 auto -50px;
   /* Pad bottom by footer height */
   /*padding: 0 0 60px;*/
 }
@@ -71,7 +71,7 @@ body {
 .navbar-default .navbar-link:hover {
   color: #6b6b6b;
 }
-@media (max-width: 767px) {
+@media (max-width: 300px) { 
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #6b6b6b;
   }
@@ -201,11 +201,11 @@ img[alt=rightpic] {
 	color: #6b6b6b;
 }
 div.footer{
-  border-bottom: 5px solid #8B1C10;/*#27A822;;*/
+  border-bottom: 8px solid #8B1C10;/*#27A822;;*/
 }
 /* Set the fixed height of the footer here */
-/*.footer {
+.footer {
   height: 50px;
   padding-bottom: 15px;
   
-}*/
+}
