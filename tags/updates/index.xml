@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Colin Szechy</title>
+    <title>szechy</title>
     <link>http://szechy.me/tags/updates/index.xml</link>
-    <description>Recent content on Colin Szechy</description>
+    <description>Recent content on szechy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <atom:link href="http://szechy.me/tags/updates/index.xml" rel="self" type="application/rss+xml" />
@@ -21,12 +21,22 @@
       &lt;div class=&#34;row&#34;&gt;
       &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
           &lt;h5 style=&#34;text-align: right&#34;&gt;
+            May 2017
+          &lt;/h5&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
+           &lt;h5 style=&#34;text-align: left&#34;&gt;
+           &lt;a href=&#34;https://www.eecs.umich.edu&#34;&gt;&lt;b&gt;Graduated&lt;/b&gt; with my BSE in Computer Engineering&lt;/a&gt; from the University of Michigan.
+          &lt;/h5&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
+          &lt;h5 style=&#34;text-align: right&#34;&gt;
             January 2017
           &lt;/h5&gt;
       &lt;/div&gt;
       &lt;div class=&#34;col-sm-8 col-md-8 col-lg-8&#34;&gt;
            &lt;h5 style=&#34;text-align: left&#34;&gt;
-           Currently serving as an &lt;a href=&#34;http://eecs.umich.edu/courses/eecs373/&#34;&gt;&lt;b&gt;undergraduate instructor assistant&lt;/b&gt; for EECS 373: Microprocessor-Based Systems&lt;/a&gt;, for Dr. Robert Dick.
+           Served as an &lt;a href=&#34;http://eecs.umich.edu/courses/eecs373/&#34;&gt;&lt;b&gt;undergraduate instructor assistant&lt;/b&gt; for EECS 373: Microprocessor-Based Systems&lt;/a&gt;, for Dr. Robert Dick.
           &lt;/h5&gt;
       &lt;/div&gt;
       &lt;div class=&#34;col-sm-4 col-md-4 col-lg-4&#34;&gt;
